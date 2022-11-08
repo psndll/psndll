@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psndll
 - 👀 I’m interested in landscape photography
-- 🌱 I’m currently learning swwiftui
+- 🌱 I’m currently learning swiftui
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
